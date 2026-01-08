@@ -69,6 +69,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     startLevel = 2
     endLevel = 3
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
