@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Job Candidate
+title: Matthew Pitcock
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Big Ten University
+- name: Princeton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics. 
+bio: I am a PhD candidate in Economics at Princeton University. My research interests are in macroeconomics and trade.
 
-interests:
-- Health economics
-- Environmental economics
  
 
 education:
   courses:
   - course: PhD in Economics
-    institution: Big Ten University
-    year: 2021 (Expected)
-  - course: MS in Economics
-    institution:  Big Ten University
-    year: 2017  
-  - course: BA in Economics
-    institution: Liberal Arts College
-    year: 2016
+    institution: Princeton University
+    year: 2029 (Expected)
+  - course: BA in Economics and Mathematics/Statistics
+    institution: Columbia University
+    year: 2021
 
 
 # Social/Academic Networking
@@ -45,16 +39,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mp6396@princeton.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/GITHUB-USERNAME
+  link: https://twitter.com/mpitcock525
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2020-2021 job market. 
+I am a PhD candidate in Economics at Princeton University. My research interests are in macroeconomics and trade

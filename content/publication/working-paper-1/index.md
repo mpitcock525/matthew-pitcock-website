@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Optimal Monetary Responses to Tariffs According to HANK"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2026-01-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,22 +18,22 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I characterize optimal monetary responses to tariff shocks in an open economy Heterogeneous Agent New Keynesian (HANK) model. Tariff shocks differ from supply or demand shocks due to the presence of a pecuniary fiscal externality; agents do not internalize how their spending increases fiscal revenue. When tariff revenue targets high marginal value households, the planner cuts rates, when revenue is spent in distributionally neutral ways, the planner expands less or even raises rates. The quantitative importance of the distributional impact of the tariff revenue for optimal policy remains whether terms of trade are endogenous, intermediates or final goods are tariffed, or preferences are non-homothetic
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I characterize optimal monetary responses to tariff shocks in an open economy Heterogeneous Agent New Keynesian (HANK) model, highlighting the importance of the distributional impact of how tariff revenue is spent for optimal policy
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: files/working-paper.pdf
+url_pdf: files/paper_mp_draft.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/slides_mp.pdf'
 url_source: ''
 url_video: ''
 
@@ -60,8 +60,5 @@ projects:
 slides: ''
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+

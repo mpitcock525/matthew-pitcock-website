@@ -3,20 +3,23 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = 2020-08-09
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "Average instructor rating: 4.8/5"
+#subtitle = "Average instructor rating: 4.8/5"
 
 # Order that this section will appear in.
 weight = 120
 
 +++
 
-### Econ 235: Health Economics
-In-person: Fall 2019
+### Eco 316: Economic Lessons from the World of Sports
+ TA: Fall 2025
 
-### MTH 101: Basic Statistics
-TA: Fall 2018, 2017, 2016
+### Eco 350: International Trade and Investment
+TA: Spring 2026
+
+### Spi 512c: Macroeconomic Analysis for Policymakers
+TA: Spring 2026
